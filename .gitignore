@@ -1,0 +1,70 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+node_modules
+
+node_modules/
+
+.nyc_output/
+coverage/
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+./node_modules
+node_modules/
+# testing
+/coverage
+temp.js
+# production
+/build
+.firebase
+/.firebase
+.firebaserc
+/.firebaserc
+firebase.json
+/firebase.json
+/config
+config
+/scripts
+scripts
+# misc
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+
+
+
+
+node_modules
+
+node_modules/
+
+.nyc_output/
+coverage/
+
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+node_modules/
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+
+.env
+./.env
+.env/
